@@ -2,7 +2,7 @@ import cv2
 from cvzone.SelfiSegmentationModule import SelfiSegmentation
 
 # connecting the internal camera (first camera index will be 0, it is the default)
-cap = cv2.VideoCapture(1)
+cap = cv2.VideoCapture(0)
 
 # extracting the camera capture size
 width, height = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH )), int( cap.get(cv2.CAP_PROP_FRAME_HEIGHT ))
