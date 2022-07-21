@@ -2,7 +2,7 @@
 This project aimed to segmentate human in the webcam record and remove the background in realtime.
 ## Running the project
 - You can install required environment following environment/environment_installation_instructions.md file.
-- Then you can run the project by following the following code:
+- Then you can run the project by the following code:
     ```
     python main.py
     ```
