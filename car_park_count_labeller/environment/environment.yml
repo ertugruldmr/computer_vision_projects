@@ -1,4 +1,4 @@
-name: car_park_count_labeller
+name: car_park_count_labeller-env
 channels:
   - defaults
 dependencies:
@@ -25,4 +25,4 @@ dependencies:
   - pip:
     - numpy==1.23.1
     - opencv-contrib-python==4.6.0.66
-prefix: /home/<your_user_name>/anaconda3/envs/car_park_count_labeller
+prefix: /home/<your_user_name>/anaconda3/envs/car_park_count_labeller-env
