@@ -25,5 +25,5 @@ __'/home/ertugrul/anaconda3/envs/bg_remover-env'__ . ertugrul is the user name o
        conda env create -f environment/environment.yml
 - Don't forget to activate the environment before run the project
        
-       conda activate bg_remover-env
+       conda activate car_park_count_labeller-env
 - Note that, this environment settted accrding to debian linux distribution.
