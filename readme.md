@@ -8,3 +8,4 @@ This repository contains computer vision projects includes deep learning models.
 - [empty_car_parking_finder](empty_car_parking_finder)
 - [finger_counter](finger_counter)
 - [object_tracking](object_tracking)
+- [object_detection_yolo_v3](object_detection_yolo_v3)
