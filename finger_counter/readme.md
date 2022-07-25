@@ -1,4 +1,4 @@
-# Car-parking-Detection
+# finger_counter
 - This project aims to detect and track human hand then count the number of upped fingers. 
 
 ## Example Results
