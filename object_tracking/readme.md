@@ -1,4 +1,4 @@
-# Car-parking-Detection
+# Opencv Object Tracking
 - This project aims to track any object which slected by the user through GUI.
 
 ## Example Results
